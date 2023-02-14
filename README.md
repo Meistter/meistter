@@ -4,7 +4,7 @@
 
 ![Starts](https://img.shields.io/github/stars/meistter/CoolMovies?style=social "Starts")   [![linkedin](https://img.shields.io/badge/LinkedIn-%2B1-blue "linkedin")](https://www.linkedin.com/in/sabadperez/ "linkedin")    [![twitter](https://img.shields.io/twitter/follow/josuep723?style=social "twitter")](https://twitter.com/Josuep723 "twitter") 
 
-<h2>I'm a Software Engineer, passionate for the Javascript, FrondEnd Development and never stop learning
+<h2>I'm a Software Engineer, in love with Javascript, FrondEnd Development and never stop learning. I have worked developing responsive web applications in Javascript, Angular and Vuejs which has allowed me to gain practical experience in FrontEnd development using agile methodologies, version control software and databases. 
 </h2>
   
 </div>
@@ -13,7 +13,7 @@
 <hr>
 
 <div align="center"> <h2>Some Learning Projects: Javascript Vanilla & Angular </h2> </div>
-
+<hr>
 
 |Trending Movies Web realizada 100% Angular consumiendo TheMovieDB | Trending Movies en Javascript Vanilla | Vanilla Learning Web Page using API |
 | ------------ | ------------ | ------------ |
