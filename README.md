@@ -5,9 +5,10 @@
 ------------
 ### Learning Projects: Javascript Vanilla & Angular
 
-| ![Starts](https://img.shields.io/github/stars/meistter/CoolMovies?style=social "Starts")  | [![linkedin](https://img.shields.io/badge/LinkedIn-%2B1-blue "linkedin")](https://www.linkedin.com/in/sabadperez/ "linkedin")   | [![twitter](https://img.shields.io/twitter/follow/josuep723?style=social "twitter")](https://twitter.com/Josuep723 "twitter") |
+| ![Starts](https://img.shields.io/github/stars/meistter/CoolMovies?style=social "Starts")  | [![linkedin](https://img.shields.io/badge/LinkedIn-%2B1-blue "linkedin")](https://www.linkedin.com/in/sabadperez/ "linkedin")   | [![twitter](https://img.shields.io/twitter/follow/josuep723?style=social "twitter")](https://twitter.com/Josuep723 "twitter") 
 
-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabadperez/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Josuep723)
 
 |Trending Movies Web realizada 100% Angular consumiendo TheMovieDB | Trending Movies en Javascript Vanilla consumiendo TheMovieDB| Vanilla Learning Web Page using API |
 | ------------ | ------------ | ------------ |
