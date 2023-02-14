@@ -3,9 +3,10 @@
 ## I'm an Informatics Engeener passionate for the Frond End Develpment
 
 ------------
+### Learning Projects: Javascript Vanilla & Angular
 
-| ##### Página Web Peliculas en Cartelera consumo de API TheMovieDB
-<img width="300px" src="https://iili.io/HEPRJR9.md.jpg" alt="HEPRJR9.md.jpg" border="0">  |  ##### Página Web Peliculas en Cartelera consumo de API TheMovieDB
-<img width="300px" src="https://iili.io/HEPRJR9.md.jpg" alt="HEPRJR9.md.jpg" border="0"> |
+
+|Trending Movies Web realizada 100% Angular consumiendo TheMovieDB | Trending Movies en Javascript Vanilla consumiendo TheMovieDB|
 | ------------ | ------------ |
-|  c |  d |
+|<img width="300px" src="https://iili.io/HEPRJR9.md.jpg" alt="HEPRJR9.md.jpg" border="0">  | <img width="300px" src="https://iili.io/HEPRJR9.md.jpg" alt="HEPRJR9.md.jpg" border="0">   |
+| githublink  repo | githublink repo | 
