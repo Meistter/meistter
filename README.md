@@ -6,7 +6,7 @@
 ### Learning Projects: Javascript Vanilla & Angular
 
 
-|Trending Movies Web realizada 100% Angular consumiendo TheMovieDB | Trending Movies en Javascript Vanilla consumiendo TheMovieDB| Vanilla Web Learning Web Page using API |
+|Trending Movies Web realizada 100% Angular consumiendo TheMovieDB | Trending Movies en Javascript Vanilla consumiendo TheMovieDB| Vanilla Learning Web Page using API |
 | ------------ | ------------ | ------------ |
 |<img width="300px" src="https://iili.io/HEPRJR9.md.jpg" alt="HEPRJR9.md.jpg" border="0">  | <img width="300px" src="https://iili.io/HEPRJR9.md.jpg" alt="HEPRJR9.md.jpg" border="0">   | <img  width="500px" src="https://iili.io/HEPMowQ.md.jpg" alt="HEPMowQ.md.jpg" border="0">|
-| Deploy: https://meistter.github.io/CoolMovies/#home Repo: https://github.com/Meistter/CoolMovies/tree/Curso-3-Optimizacion | githublink repo |  asdasda |
+| Deploy: [Angular Movies](https://meistter.github.io/CoolMovies/#home "meistter.github.ip") Repo: [Github Repository](https://github.com/Meistter/CoolMovies/tree/Curso-3-Optimizacion "Github Repository") | Deploy: [JS Cool Movies](https://meistter.github.io/CoolMovies/#home "meistter.github.ip") Repo: [Github Repository](https://github.com/Meistter/CoolMovies/tree/Curso-3-Optimizacion "Github Repository") |  Deploy: [JS Cool Movies](https://meistter.github.io/CoolMovies/#home "meistter.github.ip") Repo: [Cat Landing Page](https://github.com/Meistter/Consumo-De-Apis "Github Repository") |
