@@ -4,10 +4,10 @@
 
 ------------
 ### Learning Projects: Javascript Vanilla & Angular
-<div align="center">
+
 | ![Starts](https://img.shields.io/github/stars/meistter/CoolMovies?style=social "Starts")  | [![linkedin](https://img.shields.io/badge/LinkedIn-%2B1-blue "linkedin")](https://www.linkedin.com/in/sabadperez/ "linkedin")   | [![twitter](https://img.shields.io/twitter/follow/josuep723?style=social "twitter")](https://twitter.com/Josuep723 "twitter") |
-</div>
-<a></a>
+
+
 
 |Trending Movies Web realizada 100% Angular consumiendo TheMovieDB | Trending Movies en Javascript Vanilla consumiendo TheMovieDB| Vanilla Learning Web Page using API |
 | ------------ | ------------ | ------------ |
