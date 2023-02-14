@@ -6,7 +6,11 @@
 ### Learning Projects: Javascript Vanilla & Angular
 
 
-|Trending Movies Web realizada 100% Angular consumiendo TheMovieDB | Trending Movies en Javascript Vanilla consumiendo TheMovieDB|
+|Trending Movies Web realizada 100% Angular consumiendo TheMovieDB | Trending Movies en Javascript Vanilla consumiendo TheMovieDB| Vanilla Web Learning Web Page using API |
+| ------------ | ------------ | ------------ |
+|<img width="300px" src="https://iili.io/HEPRJR9.md.jpg" alt="HEPRJR9.md.jpg" border="0">  | <img width="300px" src="https://iili.io/HEPRJR9.md.jpg" alt="HEPRJR9.md.jpg" border="0">   | <img  width="300px" src="https://iili.io/HEPMowQ.md.jpg" alt="HEPMowQ.md.jpg" border="0">|
+| githublink  repo | githublink repo |  asdasda |
+
+| Vanilla   |   |
 | ------------ | ------------ |
-|<img width="300px" src="https://iili.io/HEPRJR9.md.jpg" alt="HEPRJR9.md.jpg" border="0">  | <img width="300px" src="https://iili.io/HEPRJR9.md.jpg" alt="HEPRJR9.md.jpg" border="0">   |
-| githublink  repo | githublink repo | 
+|   |   |
