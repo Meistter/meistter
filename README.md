@@ -1,6 +1,5 @@
-<div align="center">
-  
-![](https://media.tenor.com/XDAe8PDHSIMAAAAd/downsign-qr-code.gif)
+<div align="center"> 
+
 ![](https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif)
 
 </div>
