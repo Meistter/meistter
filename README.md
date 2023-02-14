@@ -17,7 +17,7 @@
 
 <hr>
 
-<div align="center"> <h2>Some Relevant Learning Projects: Angular Framework & Javascript Vanilla </h2> </div>
+<div align="center"> <h2>Some Relevant Learning Projects: Angular Framework | Javascript Vanilla </h2> </div>
 <hr>
 
 |Trending Movies Web made 100% on Angular consuming TheMovieDB | Trending Movies on Javascript Vanilla | Vanilla Learning Web Page using API |
