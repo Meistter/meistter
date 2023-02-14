@@ -5,6 +5,7 @@
 ------------
 ### Learning Projects: Javascript Vanilla & Angular
 
+[![GitHub](https://img.shields.io/github/followers/meistter?label=Follow&style=social "GitHub")](https://github.com/Meistter "GitHub")
 
 |Trending Movies Web realizada 100% Angular consumiendo TheMovieDB | Trending Movies en Javascript Vanilla consumiendo TheMovieDB| Vanilla Learning Web Page using API |
 | ------------ | ------------ | ------------ |
