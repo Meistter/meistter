@@ -11,7 +11,7 @@
 <h3>I'm a Software Engineer, in love with Javascript, FrondEnd Development and never stop learning. I have worked developing responsive web applications in Javascript, Angular and Vuejs which has allowed me to gain practical experience in FrontEnd development using agile methodologies, version control software and databases. 
 </h3>
   
-  ![](https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif)
+<!--  ![](https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif) -->
 </div>
 
 
