@@ -23,7 +23,7 @@
 | **Trending Movies Web made on Angular using TheMovieDB API** | **Trending Movies Javascript Vanilla** |
 |:------------:|:------------:|
 | <img width="400px" src="https://i.ibb.co/5jBXZ9D/Sin-t-tulo.png" alt="HEPRJR9.md.jpg" border="0">  | <img width="400px" src="https://i.ibb.co/qFp50pd/Screenshot-1.jpg" alt="coolmovies-Vanilla" border="0">  |
-| Deploy Web: [Angular Movies](https://meistter.github.io/Angular-Movies/) Repository: [Github Repository](https://github.com/Meistter/Angular-Movies "Github Repository")  | Deploy Web: [JS Cool Movies](https://meistter.github.io/CoolMovies/#home "meistter.github.ip") Repository: [Github Repository](https://github.com/Meistter/CoolMovies/tree/Curso-3-Optimizacion "Github Repository")  |
+| Deploy Web: [Meistter Movies](https://meistter.github.io/Angular-Movies/) Repository: [Github Repository](https://github.com/Meistter/Angular-Movies "Github Repository")  | Deploy Web: [JS Cool Movies](https://meistter.github.io/CoolMovies/#home "meistter.github.ip") Repository: [Github Repository](https://github.com/Meistter/CoolMovies/tree/Curso-3-Optimizacion "Github Repository")  |
 | **Angular Web Store**  | **Vanilla Learning Web Page using TMDB API**  |
 | <img  width="400px" src="https://i.ibb.co/4fKJV6n/yard.jpg" border="0">  | <img  width="400px" src="https://iili.io/HEPMowQ.md.jpg" alt="HEPMowQ.md.jpg" border="0">  |
 | Deploy Web: [Tienda de Garage](https://meistter.github.io/Angular-tienda-de-productos/home) Repository: [Github Repository](https://github.com/Meistter/Angular-tienda-de-productos)  |  Deploy Web: [JS Cats Api](https://meistter.github.io/Consumo-De-Apis/ "meistter.github.ip") Repository: [Cat Landing Page](https://github.com/Meistter/Consumo-De-Apis "Github Repository")  |
