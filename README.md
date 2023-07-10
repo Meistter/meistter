@@ -20,13 +20,13 @@
 
 <div align="center"> <h2>Some Relevant Learning Projects: Angular Framework | Javascript Vanilla </h2> </div>
 
-| **Angular WEBPAPP using TheMovieDB API** | **Trending Movies with Javascript Vanilla** |
+| **Angular: Pet adoption webAPP mobilefirst (on development)** | **Angular: Movies webPAPP using TheMovieDB API** |
 |:------------:|:------------:|
-| <img width="400px" src="https://i.ibb.co/5jBXZ9D/Sin-t-tulo.png" alt="HEPRJR9.md.jpg" border="0">  | <img width="400px" src="https://i.ibb.co/qFp50pd/Screenshot-1.jpg" alt="coolmovies-Vanilla" border="0">  |
-| Deploy Web: [Meistter Movies](https://meistter.github.io/Meistter-Movies/) Repository: [Github Repository](https://github.com/Meistter/Angular-Movies "Github Repository")  | Deploy Web: [JS Cool Movies](https://meistter.github.io/CoolMovies/#home "meistter.github.ip") Repository: [Github Repository](https://github.com/Meistter/CoolMovies/tree/Curso-3-Optimizacion "Github Repository")  |
-| **Angular Web Store**  | **Angular Web Store**  |
-| <img  width="400px" src="https://i.ibb.co/4fKJV6n/yard.jpg" border="0">  | <img  width="400px" src="https://i.ibb.co/4fKJV6n/yard.jpg" border="0">  |
-| Deploy Web: [Tienda de Garage](https://meistter.github.io/Angular-tienda-de-productos/home) Repository: [Github Repository](https://github.com/Meistter/Angular-tienda-de-productos)  |  Deploy Web: [Tienda de Garage](https://meistter.github.io/Angular-tienda-de-productos/home) Repository: [Github Repository](https://github.com/Meistter/Angular-tienda-de-productos)  |
+| <img width="400px" src="https://i.ibb.co/5jBXZ9D/Sin-t-tulo.png" alt="HEPRJR9.md.jpg" border="0">  | <img width="400px" src="https://i.ibb.co/5jBXZ9D/Sin-t-tulo.png" alt="HEPRJR9.md.jpg" border="0">  |
+| Deploy Web: [Meistter Movies](https://meistter.github.io/Meistter-Movies/) Repository: [Github Repository](https://github.com/Meistter/Angular-Movies "Github Repository")  | Deploy Web: [Meistter Movies](https://meistter.github.io/Meistter-Movies/) Repository: [Github Repository](https://github.com/Meistter/Angular-Movies "Github Repository")  |
+| **Movies APP using only Javascript Vanilla**  | **Angular Web Store**  |
+| <img width="400px" src="https://i.ibb.co/qFp50pd/Screenshot-1.jpg" alt="coolmovies-Vanilla" border="0">  | <img  width="400px" src="https://i.ibb.co/4fKJV6n/yard.jpg" border="0">  |
+| Deploy Web: [Meistter Movies](https://meistter.github.io/Meistter-Movies/) Repository: [Github Repository](https://github.com/Meistter/Angular-Movies "Github Repository")  |  Deploy Web: [Tienda de Garage](https://meistter.github.io/Angular-tienda-de-productos/home) Repository: [Github Repository](https://github.com/Meistter/Angular-tienda-de-productos)  |
 
 <hr>
 
