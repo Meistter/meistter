@@ -9,7 +9,7 @@
   
 ![Starts](https://img.shields.io/github/stars/meistter/CoolMovies?style=social "Starts")   [![linkedin](https://img.shields.io/badge/LinkedIn-%2B1-blue "linkedin")](https://www.linkedin.com/in/sabadperez/ "linkedin")    [![twitter](https://img.shields.io/twitter/follow/josuep723?style=social "twitter")](https://twitter.com/Josuep723 "twitter") 
 
-<h3>I'm a Software Engineer, in love with Javascript, FrondEnd Development and never stop learning. I have worked developing responsive web applications in Javascript Vanilla and Angular which has allowed me to gain practical experience in FrontEnd development using agile methodologies, version control software and databases. 
+<h3>I'm a Software Engineer, in love with Javascript, FrondEnd Development and never stop learning. I have worked developing responsive web applications in Javascript Vanilla and Angular allowing me to get practical experience in FrontEnd development using agile methodologies, version control software and databases. 
 </h3>
   
 <!--  ![](https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif) -->
@@ -26,7 +26,7 @@
 | Deploy Web: [Mi Mascota](--------) Repository: [Github Repository](---------)  | Deploy Web: [Meistter Movies](https://meistter.github.io/Meistter-Movies/) Repository: [Github Repository](https://github.com/Meistter/Angular-Movies "Github Repository")  |
 | **Movies APP using only Javascript Vanilla**  | **Angular Web Store**  |
 | <img width="400px" src="https://i.ibb.co/qFp50pd/Screenshot-1.jpg" alt="coolmovies-Vanilla" border="0">  | <img  width="400px" src="https://i.ibb.co/4fKJV6n/yard.jpg" border="0">  |
-| Deploy Web: [Meistter Movies](https://meistter.github.io/Meistter-Movies/) Repository: [Github Repository](https://github.com/Meistter/Angular-Movies "Github Repository")  |  Deploy Web: [Tienda de Garage](https://meistter.github.io/Angular-tienda-de-productos/home) Repository: [Github Repository](https://github.com/Meistter/Angular-tienda-de-productos)  |
+| Deploy Web: [Cool Movies](https://meistter.github.io/CoolMovies/) Repository: [Github Repository](https://github.com/Meistter/CoolMovies "Github Repository")  |  Deploy Web: [Tienda de Garage](https://meistter.github.io/Angular-tienda-de-productos/home) Repository: [Github Repository](https://github.com/Meistter/Angular-tienda-de-productos)  |
 
 <hr>
 
