@@ -20,7 +20,7 @@
 
 <div align="center"> <h2>Some Relevant Learning Projects: Angular Framework | Javascript Vanilla </h2> </div>
 
-| **Angular: Pet adoption webAPP (on development)** | **Angular: Movies webPAPP using TheMovieDB API** |
+| **Angular: Pet adoption webAPP (On development)** | **Angular: Movies webPAPP using TheMovieDB API** |
 |:------------:|:------------:|
 | <img height="200px" src="https://i.postimg.cc/g0K5Nzpk/asdf.png" alt="HEPRJR9.md.jpg" border="0">  | <img width="400px" src="https://i.postimg.cc/C53yqcG3/fast.png" alt="HEPRJR9.md.jpg" border="0">  |
 | Deploy Web: [Mi Mascota](--------) Repository: [Github Repository](---------)  | Deploy Web: [Meistter Movies](https://meistter.github.io/Meistter-Movies/) Repository: [Github Repository](https://github.com/Meistter/Angular-Movies "Github Repository")  |
