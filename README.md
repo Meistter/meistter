@@ -18,7 +18,7 @@
 
 <hr>
 
-<div align="center"> <h2>Some Relevant Learning Projects: Angular Framework | Javascript Vanilla </h2> </div>
+<div align="center"> <h2>Some Relevant Learning Projects: Angular Framework | Javascript </h2> </div>
 
 | **Angular: Pet adoption webAPP (Under development)** | **Angular: Movies webPAPP using TheMovieDB API** |
 |:------------:|:------------:|
