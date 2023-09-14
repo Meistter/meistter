@@ -9,7 +9,7 @@
   
 ![Starts](https://img.shields.io/github/stars/meistter/CoolMovies?style=social "Starts")   [![linkedin](https://img.shields.io/badge/LinkedIn-%2B1-blue "linkedin")](https://www.linkedin.com/in/sabadperez/ "linkedin")    [![twitter](https://img.shields.io/twitter/follow/josuep723?style=social "twitter")](https://twitter.com/Josuep723 "twitter") 
 
-<h3>I'm a Software Engineer, in love with Javascript, FrondEnd Development and never stop learning. I have worked developing responsive web applications in Javascript Vanilla and Angular allowing me to get practical experience in FrontEnd development using agile methodologies, version control software and databases. 
+<h3>I'm a Software Engineer, in love with Javascript, FrondEnd Development and never stop learning. I have worked developing responsive web applications in Javascript Vanilla and Angular allowing me to get practical experience in FrontEnd development using agile methodologies. 
 </h3>
   
 <!--  ![](https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif) -->
