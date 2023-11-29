@@ -5,7 +5,6 @@
 </div>
 <div align="center"> <h1> Hi There! I'm Sabad Perez </h1> 
 
- ![](https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif) 
   
 ![Starts](https://img.shields.io/github/stars/meistter/CoolMovies?style=social "Starts")   [![linkedin](https://img.shields.io/badge/LinkedIn-%2B1-blue "linkedin")](https://www.linkedin.com/in/sabadperez/ "linkedin")    [![twitter](https://img.shields.io/twitter/follow/josuep723?style=social "twitter")](https://twitter.com/Josuep723 "twitter") 
 
