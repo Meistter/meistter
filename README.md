@@ -3,7 +3,7 @@
 
 
 </div>
-<div align="center"> <h1> Hello! I'm Sabad Perez. </h1> 
+<div align="center"> <h1> Hello! I'm Sabad Perez </h1> 
 
   
 ![Starts](https://img.shields.io/github/stars/meistter/CoolMovies?style=social "Starts")   [![linkedin](https://img.shields.io/badge/LinkedIn-%2B1-blue "linkedin")](https://www.linkedin.com/in/sabadperez/ "linkedin")    [![twitter](https://img.shields.io/twitter/follow/josuep723?style=social "twitter")](https://twitter.com/Josuep723 "twitter") 
