@@ -1,41 +1,33 @@
-<div align="right"> 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sabad Perez
+===================================================================================================================================
+
+Software Engineer and Fullstack Developer
+-----------------------------------------
+
+I'm a Software Engineer, in love with Javascript, FrondEnd Development and everyday learning. I have worked developing responsive web applications in Javascript Vanilla and Angular SPA aplications, allowing me to get practical experience in FrontEnd development using agile methodologies.
+
+* 🌍  I'm based in Caracas, Venezuela
+* ✉️  You can contact me at [josueperez723@gmail.com](mailto:josueperez723@gmail.com)
+* 🚀  I'm currently working on [Mercantil Banco](http://mercantilbanco.com)
+* 🧠  I'm learning Angular 20 new features
+* 🤝  I'm open to collaborating on Javascript projects
+
+### Skills
 
 
-
-</div>
-<div align="center"> <h1> Hello! I'm Sabad Perez </h1> 
-
-  
-![Starts](https://img.shields.io/github/stars/meistter/CoolMovies?style=social "Starts")   [![linkedin](https://img.shields.io/badge/LinkedIn-%2B1-blue "linkedin")](https://www.linkedin.com/in/sabadperez/ "linkedin")    [![twitter](https://img.shields.io/twitter/follow/josuep723?style=social "twitter")](https://twitter.com/Josuep723 "twitter") 
-
-<h3>I'm a Software Engineer, in love with Javascript, FrondEnd Development and never stop learning. I have worked developing responsive web applications in Javascript Vanilla and Angular allowing me to get practical experience in FrontEnd development using agile methodologies. 
-</h3>
-  
-<!--  ![](https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif) -->
-</div>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" title="Angular"/></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" title="Vue"/></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" title="Sass"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a>
+</p>
 
 
-<hr>
+### Socials
 
-<div align="center"> <h2>Some Relevant Learning Projects: Angular Framework | Javascript </h2> </div>
+<p align="left"> <a href="https://www.github.com/Meistter" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/sabadperez/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.x.com/josuep723" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a></p>
 
-| **Angular: Pet adoption webAPP** | **Angular: Movies webPAPP using TheMovieDB API** |
-|:------------:|:------------:|
-| <img height="200px" src="https://i.postimg.cc/Xv4LPdWk/Screenshot-1.jpg" alt="HEPRJR9.md.jpg" border="0">  | <img width="400px" src="https://i.postimg.cc/C53yqcG3/fast.png" alt="HEPRJR9.md.jpg" border="0">  |
-| Deploy Web: [Mi Mascota](https://meistter.github.io/Mi-Mascota/home) Repository: [Github Repository](https://github.com/Meistter/Mi-Mascota)  | Deploy Web: [Meistter Movies](https://meistter.github.io/Meistter-Movies/) Repository: [Github Repository](https://github.com/Meistter/Angular-Movies "Github Repository")  |
-| **Movies APP using only Javascript Vanilla**  | **Angular Web Store**  |
-| <img width="400px" src="https://i.ibb.co/qFp50pd/Screenshot-1.jpg" alt="coolmovies-Vanilla" border="0">  | <img  width="400px" src="https://i.ibb.co/4fKJV6n/yard.jpg" border="0">  |
-| Deploy Web: [Cool Movies](https://meistter.github.io/CoolMovies/) Repository: [Github Repository](https://github.com/Meistter/CoolMovies "Github Repository")  |  Deploy Web: [Tienda de Garage](https://meistter.github.io/Angular-tienda-de-productos/home) Repository: [Github Repository](https://github.com/Meistter/Angular-tienda-de-productos)  |
+### Badges
 
-<hr>
+<a href="https://github.com/Meistter" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meistter&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<h2 align="center">Languages and Tools I've worked with:</h2>
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="73" height="73"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="73" height="73"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="73" height="73"/> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="73" height="73"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="73" height="73"/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="73" height="73"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="73" height="73"/> </a> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="73" height="73"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="73" height="73"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="73" height="73"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="73" height="73"/> </a>  </p>
-  
-<hr>
+<b>Top Repositories</b>
 
-<div align="center">
-  
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabadperez/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Josuep723)
-</div>
+<div width="100%" align="center"><a href="https://github.com/Meistter/Mi-Mascota" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Meistter&repo=Mi-Mascota&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Meistter/Meistter-Movies" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Meistter&repo=Meistter-Movies&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
